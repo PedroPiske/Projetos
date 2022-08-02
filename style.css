@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Didact+Gothic&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #325a83;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+h1 {
+    color: #ffffff;
+    border: 0px solid #1C6EA4;
+    padding-left: 30px;
+    padding-top: 7px;
+    font-family: 'Didact Gothic', sans-serif;
+}
+u {
+    text-decoration: underline;
+}
+.btns {
+    border: 0px solid #1564ad;
+    padding-left: 720px;
+    padding-top: 5px;
+}
+.myButton {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton2 {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton2:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+.myButton3 {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton3:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+.myButton4 {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton4:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton4:active {
+	position:relative;
+	top:1px;
+}
+.texto {
+    background-color: #1564ad;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 150%;
+    color: #ffffff;
+    text-align: center;
+}
+h2 {
+    text-align: left;
+    border: 1px solid #1564ad;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 30px;
+    font-family: 'Didact Gothic', sans-serif;
+}
